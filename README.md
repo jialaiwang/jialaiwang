@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm [Jialai Wang (王佳来)](https://jialaiwang.github.io/).
 
-<!--
-**jialaiwang/jialaiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student at [Department of Astronomy](https://astro.ustc.edu.cn), [School of Physical Sciences](https://physics.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying the co-evolution of galaxies and supermassive black holes.
+- 👯 I’m looking to collaborate on projects related to observational studies.
+- 💬 Ask me about anything!
+- 📫 How to reach me: 
+  * Email: [jialaiwang@mail.ustc.edu.cn](mailto:jialaiwang@mail.ustc.edu.cn)
+  * Website: [https://jialaiwang.github.io/](https://jialaiwang.github.io/)
+  * ORCID: [Jialai Wang](https://orcid.org/0009-0001-9170-3363)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jialaiwang&show_icons=true)
